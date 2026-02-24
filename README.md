@@ -1,4 +1,5 @@
 Avant de lancer le projet, assurez-vous d’avoir :
+
 XAMPP installé
 
 PHP 8.x
